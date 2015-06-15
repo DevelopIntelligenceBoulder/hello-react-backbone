@@ -1,0 +1,25 @@
+{
+  "name": "hello-react-backbone",
+  "version": "0.0.1",
+  "description": "Hello World in React utilizing Backbone Models",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-react-backbone.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-react-backbone",
+  "devDependencies": {
+    "express": "^4.12.4"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "backbone": "^1.2.1",
+    "backbone-react-component": "^0.8.1",
+    "react": "^0.13.3"
+  }
+}
