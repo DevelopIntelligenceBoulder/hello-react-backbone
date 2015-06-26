@@ -25,3 +25,4 @@ The Hello Component is defined. The component state is set via a Backbone model 
     * Packages needed for this application will be installed (i.e. Underscore, Backbone, React, backbone-react-component & Express)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
+4. Try this code out in this [Plunker](http://plnkr.co/edit/Lm2U1g?p=preview)
